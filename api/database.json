@@ -1,0 +1,76 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "1",
+      "clownId": "1",
+      "date_created": 1672239752348,
+      "id": 1
+    },
+    {
+      "requestId": "2",
+      "clownId": "2",
+      "date_created": 1672239766946,
+      "id": 2
+    },
+    {
+      "requestId": "3",
+      "clownId": "1",
+      "date_created": 1672239795623,
+      "id": 3
+    }
+  ],
+  "requestedBookings": [
+    {
+      "id": 2,
+      "description": "Christmas Party",
+      "address": "500 Main Dr",
+      "partyLengthHours": 3,
+      "numKidsAttending": 15,
+      "date": "2022-12-28"
+    },
+    {
+      "description": "Bday party",
+      "address": "111 Infinity Way",
+      "budget": "1000",
+      "date": "2022-12-30",
+      "id": 3
+    },
+    {
+      "description": "Dope party",
+      "address": "1234 Brookway Dr",
+      "budget": "200",
+      "numKids": "5",
+      "partyLength": "2.5",
+      "date": "2022-12-31",
+      "id": 4
+    },
+    {
+      "description": "Sick ass party",
+      "address": "123 John Dr",
+      "budget": "350",
+      "numKids": "8",
+      "partyLength": "4",
+      "date": "2023-01-01",
+      "id": 5
+    },
+    {
+      "description": "Bday party",
+      "address": "111 Maddie Way",
+      "budget": "250",
+      "numKids": "8",
+      "partyLength": "3",
+      "date": "2022-12-27",
+      "id": 6
+    }
+  ]
+}
